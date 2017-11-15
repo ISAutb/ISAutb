@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to ISA - UTB
 
-You can use the [editor on GitHub](https://github.com/ISAutb/ISAutb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Basics of Pneumatics and Digital Image Processing workshop 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This workshop introduces pneumatics —  basic concepts, terminology, applications, and automation processes used throughout the pneumatics industry. Lessons cover a wide variety of pneumatic components, as well as provide a good grounding in basic pneumatic terminology.
 
-### Markdown
+The course covers:
+1.	Basic Pneumatics
+2.	Symbolic representation of devices and standards (ISO 1219) 
+3.	Pneumatic circuits systems
+4.	Design of circuit diagrams
+5.	Practical exercises “hands on”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In addition, this workshop proceeds to address the mainstream areas of image processing. The major areas covered include image and video segmentation, intensity transformation, histogram operations, image thresholding and morphological image processing.  All the theoretical concepts have been explained in details. Then, their implementation is covered with OpenCV (Open Source Computer Vision Library), which occupies a position of eminence in both education and industrial applications.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ISAutb/ISAutb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
